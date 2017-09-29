@@ -4,8 +4,9 @@ based on the posting in the ERPNext Forum by Rushbah I'd like to apply for the p
 
 **About me:**
 - German National and Shanghai resident since 2009
--
-
+- active in the ERPNext community since May 2016
+- first Forum post _"License of Frappe or ERPNext"_
+- Member of the ERPNext Foundation since April 2017
 
 **How do I see the role:**
 - task1
